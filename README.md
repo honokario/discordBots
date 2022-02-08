@@ -13,7 +13,9 @@ cd [deployDirectory]
 ```
 ```
 git clone https://github.com/honokario/discordBots.git
+```
 or
+```
 git clone git@github.com:honokario/discordBots.git
 ```
 ```
@@ -46,4 +48,3 @@ vim config.json
 ```
 node senkoudamaBotV2.js
 ```
-
