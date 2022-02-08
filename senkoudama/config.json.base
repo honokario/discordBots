@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "token": "ボットのトークンID",
+  "channelId": {
+    "observation": "監視テキストチャンネルのID",
+    "notification": "Bot通知テキストチャンネルのID"
+  }
+}
