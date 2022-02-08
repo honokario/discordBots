@@ -2,8 +2,9 @@
 
 ## Requirement
 ```
-node
+git
 npm
+Node 10.2.0
 ```
 
 ## Installation
